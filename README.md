@@ -49,7 +49,7 @@ tidyverse (for data manipulation and visualization)
 forecast (for SARIMA modeling and automated selection)
 
 # How to Reproduce
-Source Data: Place your estat_jvs_q_nace2.tsv file in the root directory.
+Source Data: [Place your estat_jvs_q_nace2.tsv file in the root directory.](https://ec.europa.eu/eurostat/databrowser/view/jvs_q_nace2/default/table?lang=en) 
 
 Clean: Run job.r to generate estat_jvs_q_nace2_cleaned.csv.
 
